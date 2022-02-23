@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "306200310044",
+    "project_id": "ynot-3e1db",
+    "storage_bucket": "ynot-3e1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306200310044:android:ef8a07034a90acf66d0ad9",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306200310044-kb2at5o0d4l1u3s7mvc7v8p40h0ooblc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "d44d036efc5477f0efcb1160ffeca1d29782d6b1"
+          }
+        },
+        {
+          "client_id": "306200310044-l0qjan5r897t7j2ddg9brl9kq8impbug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTG76xVwuusXG7Z-84iuR1qtMsMyPGJl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306200310044-l0qjan5r897t7j2ddg9brl9kq8impbug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306200310044-ut73dilfb53btm077n4o2pcla0glgg6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
